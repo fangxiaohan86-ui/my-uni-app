@@ -1,0 +1,33 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/history/history",
+      "style": {
+        "navigationBarTitleText": "历史记录"
+      }
+    },
+    {
+      "path": "pages/stats/stats",
+      "style": {
+        "navigationBarTitleText": "统计"
+      }
+    },
+    {
+      "path": "pages/admin/admin",
+      "style": {
+        "navigationBarTitleText": "管理后台"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTitleText": "饮食打卡",
+    "navigationBarBackgroundColor": "#FF7043",
+    "navigationBarTextStyle": "white"
+  }
+}
